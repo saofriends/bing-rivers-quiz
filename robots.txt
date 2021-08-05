@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://bing-rivers-quiz.herokuapp.com/host-https-bingriversquiz.com/sitemap_index.xml
+Sitemap: https://bing-rivers-quiz.herokuapp.com/sitemap.xml
